@@ -6,7 +6,7 @@ This enables the use of a leading underscore in a variable but only if...
 ## How to use
 install lint dependency
 ```sh
-npm install --save-dev ...
+npm install --save-dev https://github.com/sarahheacock/unused-param-tslint.git
 ```
 
 add dependency to rules directory of tslint
